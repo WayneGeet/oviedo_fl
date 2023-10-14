@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/oviedo_fl/static/css/main.c235fa0d.css",
-    "main.js": "/oviedo_fl/static/js/main.17070e2c.js",
-    "static/js/483.6a0f550b.chunk.js": "/oviedo_fl/static/js/483.6a0f550b.chunk.js",
+    "main.js": "/oviedo_fl/static/js/main.3c5dfe38.js",
+    "static/js/483.94603583.chunk.js": "/oviedo_fl/static/js/483.94603583.chunk.js",
     "static/media/bus.png": "/oviedo_fl/static/media/bus.bfa2e6e3d4d222bbe147.png",
     "static/media/school.png": "/oviedo_fl/static/media/school.687c2bafe9a4e1b31d95.png",
     "static/media/park.png": "/oviedo_fl/static/media/park.4701d43d103a05abcca7.png",
@@ -14,11 +14,11 @@
     "static/media/school_toggle.png": "/oviedo_fl/static/media/school_toggle.6281cf3fea159534e00a.png",
     "index.html": "/oviedo_fl/index.html",
     "main.c235fa0d.css.map": "/oviedo_fl/static/css/main.c235fa0d.css.map",
-    "main.17070e2c.js.map": "/oviedo_fl/static/js/main.17070e2c.js.map",
-    "483.6a0f550b.chunk.js.map": "/oviedo_fl/static/js/483.6a0f550b.chunk.js.map"
+    "main.3c5dfe38.js.map": "/oviedo_fl/static/js/main.3c5dfe38.js.map",
+    "483.94603583.chunk.js.map": "/oviedo_fl/static/js/483.94603583.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c235fa0d.css",
-    "static/js/main.17070e2c.js"
+    "static/js/main.3c5dfe38.js"
   ]
 }
