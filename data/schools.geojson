@@ -1,0 +1,131 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2184785,
+                    28.6725206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Oviedo High School",
+                "name": "Oviedo High School"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.19574829999999,
+                    28.6679384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Jackson Heights Middle School",
+                "name": "Jackson Heights Middle School"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1907098,
+                    28.6543885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Stenstrom Elementary School",
+                "name": "Stenstrom Elementary School"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1797368,
+                    28.6519001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Twin Rivers Montessori Academy",
+                "name": "Twin Rivers Montessori Academy"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.18796119999999,
+                    28.6574963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Reformed Theological Seminary",
+                "name": "Reformed Theological Seminary"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.199535,
+                    28.655544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Mitchell Hammock's Nursery in Oviedo, Florida",
+                "name": "Mitchell Hammock's Nursery in Oviedo, Florida"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.15578819999999,
+                    28.6538977
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Lawton Chiles Middle School",
+                "name": "Lawton Chiles Middle School"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1561437,
+                    28.6497771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Partin Elementary School",
+                "name": "Partin Elementary School"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.170372,
+                    28.6316162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Seminole State College - Lee Campus at Oviedo",
+                "name": "Seminole State College - Lee Campus at Oviedo"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

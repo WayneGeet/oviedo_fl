@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-size:1rem;
+  font-weight:bold;
+  color:rgb(43, 43, 43);
+}
+
+.map-container {
+  cursor:default;
+}

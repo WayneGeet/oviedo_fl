@@ -1,0 +1,145 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2035989,
+                    28.658581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Oviedo on the Park",
+                "name": "Oviedo on the Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1933871,
+                    28.6578555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Royalwood Park",
+                "name": "Royalwood Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.16735782426784,
+                    28.67956866576579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Solary Park",
+                "name": "Solary Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.19378999999999,
+                    28.67199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Round Lake Park",
+                "name": "Round Lake Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.18698499999999,
+                    28.66484699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Long Lake Park",
+                "name": "Long Lake Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2027621,
+                    28.6585504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Center Lake Park",
+                "name": "Center Lake Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1851724,
+                    28.6481064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "River Woods Park",
+                "name": "River Woods Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.2057662,
+                    28.6784662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sweetwater Park",
+                "name": "Sweetwater Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.21205979999999,
+                    28.6698405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Friendship Park",
+                "name": "Friendship Park"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1754679,
+                    28.6751746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Shane Kelly Bark Park",
+                "name": "Shane Kelly Bark Park"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

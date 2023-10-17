@@ -1,0 +1,19 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.19024999999999,
+                    28.67016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Mobil",
+                "name": "Mobil"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
